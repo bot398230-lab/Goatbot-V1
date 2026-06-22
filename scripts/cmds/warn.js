@@ -4,7 +4,7 @@ module.exports = {
 	config: {
 		name: "warn",
 		version: "1.8",
-		author: "NTKhang",
+		author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
 		countDown: 5,
 		role: 0,
 		description: {
