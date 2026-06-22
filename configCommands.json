@@ -36,3 +36,32 @@
     "alldl.js"
   ]
 }
+{
+  "game_name": "BotSlots",
+  "symbols": ["🍒", "🍋", "🍊", "⭐", "7️⃣", "💎"],
+  "reels": 3,
+  "rows": 3,
+  "paylines": 5,
+  "bet_min": 10,
+  "bet_max": 1000,
+  "rtp": 0.96,
+  "jackpot": {
+    "enabled": true,
+    "seed": 5000,
+    "contribution": 0.02
+  },
+  "payouts": {
+    "🍒": 5,
+    "🍋": 10,
+    "⭐": 25,
+    "7️⃣7️⃣7️⃣": 100,
+    "💎": 500
+  },
+  "features": {
+    "free_spins": true,
+    "wild_symbol": "⭐",
+    "scatter_symbol": "💎",
+    "scatter_count": 3
+  },
+  "cooldown_seconds": 3
+}
