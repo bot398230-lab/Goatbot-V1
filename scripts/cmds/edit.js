@@ -4,7 +4,7 @@ module.exports = {
         name: "nbpro",
         version: "1.0",
         aliases: ["edit", "nb", "nanobanana", "nanobanana-pro"],
-        author: "Tawsif~",
+        author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
         category: "ai",
         countDown: 5,
         role: 0,
